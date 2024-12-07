@@ -1,0 +1,6 @@
+{
+  "client": {
+    "source": "crypto-frontend",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
